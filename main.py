@@ -1,1 +1,1 @@
-print(32)
+print ("The King in the North")
